@@ -204,9 +204,8 @@
               "name": "magic-stick",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#475577"
             }
           },
           "media2": {
@@ -216,9 +215,8 @@
               "name": "home",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#475577"
             }
           },
           "media3": {
@@ -228,9 +226,8 @@
               "name": "user2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#475577"
             }
           },
           "media4": {
